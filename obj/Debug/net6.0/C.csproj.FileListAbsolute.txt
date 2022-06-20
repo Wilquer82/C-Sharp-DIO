@@ -1,0 +1,15 @@
+/home/usuario/C/bin/Debug/net6.0/C
+/home/usuario/C/bin/Debug/net6.0/C.deps.json
+/home/usuario/C/bin/Debug/net6.0/C.runtimeconfig.json
+/home/usuario/C/bin/Debug/net6.0/C.dll
+/home/usuario/C/bin/Debug/net6.0/C.pdb
+/home/usuario/C/obj/Debug/net6.0/C.csproj.AssemblyReference.cache
+/home/usuario/C/obj/Debug/net6.0/C.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/C/obj/Debug/net6.0/C.AssemblyInfoInputs.cache
+/home/usuario/C/obj/Debug/net6.0/C.AssemblyInfo.cs
+/home/usuario/C/obj/Debug/net6.0/C.csproj.CoreCompileInputs.cache
+/home/usuario/C/obj/Debug/net6.0/C.dll
+/home/usuario/C/obj/Debug/net6.0/refint/C.dll
+/home/usuario/C/obj/Debug/net6.0/C.pdb
+/home/usuario/C/obj/Debug/net6.0/C.genruntimeconfig.cache
+/home/usuario/C/obj/Debug/net6.0/ref/C.dll
